@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/Josejaviersolerm/prediction-service#readme",
   "dependencies": {
+    "dotenv": "^18.0.10",
     "express": "^5.3.0",
     "onnxruntime-node": "^1.31.1"
   }
